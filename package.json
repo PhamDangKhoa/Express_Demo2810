@@ -1,0 +1,22 @@
+{
+  "name": "express_demo2810",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhamDangKhoa/Express_Demo2810.git"
+  },
+  "author": "Khoa Pham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhamDangKhoa/Express_Demo2810/issues"
+  },
+  "homepage": "https://github.com/PhamDangKhoa/Express_Demo2810#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
